@@ -1,4 +1,6 @@
-*/result_*/*
+*/result_*/
 */sample_*/*
 PDF-Translater_node/node_modules
 /keycode
+
+.DS_Store
