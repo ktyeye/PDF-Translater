@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        maven { url 'https://repo.spring.io/release' }
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'PDF_translater_java'

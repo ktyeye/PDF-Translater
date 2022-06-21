@@ -1,0 +1,26 @@
+{
+  "name": "pdf-translater",
+  "version": "1.0.0",
+  "description": "PDF_BOX TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktyeye/PDF-Translater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktyeye/PDF-Translater/issues"
+  },
+  "homepage": "https://github.com/ktyeye/PDF-Translater#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^6.1.0",
+    "@google-cloud/translate": "^6.3.1",
+    "google-translate-api": "^2.3.0",
+    "jspdf": "^2.5.1",
+    "pdf2html": "^2.6.7"
+  }
+}
