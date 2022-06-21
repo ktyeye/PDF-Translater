@@ -1,4 +1,4 @@
-
-/sample_*/*
-/node_modules
+*/result_*/*
+*/sample_*/*
+PDF-Translater_node/node_modules
 /keycode
